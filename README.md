@@ -17,3 +17,10 @@ The course will prepare you for jobs and careers connected with widely understoo
 ## Name of Developer
 - [geloxh](https://github.com/geloxh)
 
+## JSE Total Of Modules
+- Module One : Introduction to JavaScript and Computer Programming
+- Module Two : Variables, Data Types, Type Casting, and Comments;
+- Module Three : Operators and User Interaction;
+- Module Four : Control Flow – Conditional Execution and Loops;
+- Module Five : Functions;
+- Module Six : Errors, exceptions, debugging, and troubleshooting.
