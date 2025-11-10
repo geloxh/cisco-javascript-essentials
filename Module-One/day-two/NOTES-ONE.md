@@ -1,4 +1,4 @@
-### Day 2 - About JavaScript
+### Day 2.1 - About JavaScript
 Day 2 of Learning, and it covers the following topics:
 ## Communicating with the computer
 in order to help in communication with the computer, programming languages were invented that are somewhat similar to natural languages (that is, those used for communication between people). There are thousands of programming languages, and they differ in purpose (aside from general-purpose languages, there are many specialized ones, for example, languages designed only for statistical calculations), level of abstraction (in simple terms: the higher the language level, the less we need to know about the hardware on which the program is executed), ease of use, effectiveness of the programs written in them, etc.
