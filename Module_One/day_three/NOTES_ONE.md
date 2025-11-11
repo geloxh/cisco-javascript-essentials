@@ -63,7 +63,7 @@ The index.html file contains the `<script>` and `</script>` tags, with a piece o
 ![Alt text](../src/image_two.png)
 
 # Executing the code directly in the console
-![Alt text](../arc/image_three.png)
+![Alt text](../src/image_three.png)
 
 In the console from the developer tools. In the prompt, a sign `>` or `>>` followed by a flashing cursor (if there is no cursor, click on the prompt). Then you can enter the instruction that will show "Hello, World!" on the console (using the `console.log` function). The scenario is shown in the figure below.
 
