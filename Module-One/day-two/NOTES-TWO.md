@@ -37,5 +37,6 @@ Depending on the browser, we will find various tools there, but there will certa
     - the JavaScript console – which firstly shows all the information about the errors, and secondly allows us to run single JavaScript commands in the context of the current page;
 
     - the debugger – which, among other things, shows the current values of variables, and allows you to pause code execution in the indicated place and to perform step-by-step work (i.e. execute single instructions of the program).
+    
 ```
 
