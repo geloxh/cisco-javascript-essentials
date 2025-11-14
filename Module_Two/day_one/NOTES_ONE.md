@@ -14,7 +14,7 @@ In JavaScript, variable names may consist of any sequence of letters (lower-case
 
 The important thing is also that the JavaScript interpreter distinguishes between lower-case and upper-case letters, also in variable names, so names such as `test`, `Test`, or `TEST` will be treated as different.
 
-![Alt text](../src/image_one.jpg)
+![Alt text](../src/image_one.png)
 
 ## Declaring Variables
 Usually, the `values` stored in the variable will be able to be modified during the execution of the program (they are "variables", after all).
@@ -55,3 +55,11 @@ console.log(height); // -> undefined
 The example above demonstrates the possibility of re-declaring a `variable` using the keyword `var`. In this situation, it will not cause an `error`, but in more complex programs a redeclaration, especially by accident, may no longer be without consequences. 
 
 When declaring with `let`, the interpreter checks whether such a variable has already been declared, no matter if `let` or `var` is used in the previous declaration.
+
+```javascript
+let height;
+let height; // -> Uncaught SyntaxError: Indetifier 'height' has already been declared
+console.log(height);
+```
+
+So use `let` to declare variables, if only because you don't want to accidentally declare a variable again.
