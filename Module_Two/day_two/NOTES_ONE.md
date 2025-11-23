@@ -22,3 +22,12 @@ console.log(weight); // -> 70
 ```
 The `declarations` of the `variables` `height` and `anotherHeight` are combined with their `initialization`, while the `variable` `weight` is declared and initialized separately. 
 The `height` and `weight` `variables` are `initialized` by providing specific `values` (more `precisely`, a `number`), while the `anotherHeight` `variable` receives a value read from the `height` `variable`. The values of all the `variables` are displayed on the `console`.
+
+Specifying a `variable`name in console.log, the interpreter recognizes it and displays its `valuje`.
+If you put the same name/variable name in quotation marks, it will be treated as plain text, and displayed the text.
+
+```javascript
+let height = 180;
+console.log(height);
+console.log("height");
+```
